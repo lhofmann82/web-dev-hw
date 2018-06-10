@@ -15,4 +15,4 @@ translator for code, it allows the user to view images and written data in an un
 
  HTML is the standard as I understand it however not easy for a newbie like me!
 
-![](/Users/Nighstalker/Desktop/Project1/images/Screen Shot_proj1.png)
+![](images/Screen Shot_proj1.png) 
