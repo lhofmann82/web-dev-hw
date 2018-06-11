@@ -1,7 +1,24 @@
-# Assignment 2
- ________________________________________________
- A _version of control_ is a tracking and management system for changes made to documents, software programs. This can track multi user  access, when more than one user is assigned access to the same system. These user can share workflow by accessing shared files.
+# My Intro-Web-Dev Homework Repo
+##  Lucas Hofmann
 
- This assignment was difficult for me as all of this has been. I have a limited knowledge of this world, I feel as i am playing catch up all the time.
+I am a freelance photographer and have always wanted to learn more web design as it will greatly help me in my work.
 
- ![Image of my Atom editor](/Images/Screen.png).
+But what exactly is the internet? I was interested to learn:
+
+* The internet was first created under the name ARANET for use by the Department of Defense.
+
+* The first computer used for functioning the internet can now be seen on display in a museum in London.
+
+* I learned that the ISP is to the web address much like our personal phone numbers are linked to us. You can not call the name, you call the phone number associated with the name.
+
+___
+
+### My Resources
+
+Our textbook is *HTML and CSS by* **John Duckett**
+
+`Our textbook is *HTML and CSS by* **John Duckett** `
+
+[Class Link](https://media-ed-online.github.io/intro-web-dev/)
+
+[Our Logo](http://bit.ly/2DIVG46)
