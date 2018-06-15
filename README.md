@@ -14,11 +14,7 @@ But what exactly is the internet? I was interested to learn:
 ___
 
 ### My Resources
-
-Our textbook is *HTML and CSS by* **John Duckett**
-
-`Our textbook is *HTML and CSS by* **John Duckett** `
-
-[Class Link](https://media-ed-online.github.io/intro-web-dev/)
-
-[Our Logo](http://bit.ly/2DIVG46)
+Our textbook is _HTML and CSS_ by **John Duckett**
+```Our textbook is _HTML and CSS_ by **John Duckett**```
+Visit the [course website](https://media-ed-online.github.io/intro-web-dev/) to learn more.
+![image](http://bit.ly/2DIVG46)
