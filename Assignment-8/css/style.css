@@ -1,0 +1,29 @@
+body{
+  background-image: url("../images/me.jpg");
+  background-size: cover;
+
+}
+{font-size: 200%;}
+
+font {
+    color: red;
+}
+p.ex {
+    color: white;
+}
+}
+#nav	 {
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 0;
+}
+#nav ul {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+}
+div.a {
+    font-size: 100px;
+}
